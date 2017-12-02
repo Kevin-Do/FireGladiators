@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="127fda70-7200-4218-8c01-5561c2ed5e6b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="proto_playerController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Prototype Project/Scripts/proto_playerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <marker date="1512181879442" expanded="false" signature="6:78" ph="..." />
+                <marker date="1512181879442" expanded="true" signature="131:543" ph="{...}" />
+                <marker date="1512181879442" expanded="true" signature="279:286" ph="{...}" />
+                <marker date="1512181879442" expanded="true" signature="341:541" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vThirdPersonCamera.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/Camera/vThirdPersonCamera.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="158" column="63" lean-forward="false" selection-start-line="158" selection-start-column="57" selection-end-line="158" selection-end-column="63" />
+              <folding>
+                <marker date="1512183823393" expanded="false" signature="6:94" ph="..." />
+                <marker date="1512183823393" expanded="true" signature="143:8794" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="156:863" ph="inspector properties" />
+                <marker date="1512183823393" expanded="true" signature="869:1846" ph="hide properties" />
+                <marker date="1512183823393" expanded="true" signature="1864:1892" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="1916:2594" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="2618:2717" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="2724:2842" ph="/// Set the target for the camera ... " />
+                <marker date="1512183823393" expanded="true" signature="2889:2957" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="3009:3210" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="3216:3378" ph="/// Convert a point in the screen in a Ray for the world ... " />
+                <marker date="1512183823393" expanded="true" signature="3425:3505" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="3511:3643" ph="/// Camera Rotation behaviour ... " />
+                <marker date="1512183823393" expanded="true" signature="3690:4218" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="3889:4059" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="4072:4212" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="4224:4285" ph="/// Camera behaviour ... " />
+                <marker date="1512183823393" expanded="true" signature="4311:7404" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="5456:5680" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="5855:6290" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="5957:6280" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="6303:6359" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="7160:7321" ph="/* lookTargetOffSet = Vector3.Lerp(lookTargetOffSet, Vector3.zero, 1 * Time.fixedDeltaTime); ... */" />
+                <marker date="1512183823393" expanded="true" signature="7411:7715" ph="/// Custom Raycast using NearClipPlanesPoints ... " />
+                <marker date="1512183823393" expanded="true" signature="7851:8792" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="7980:8074" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="8170:8304" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="8399:8533" ph="{...}" />
+                <marker date="1512183823393" expanded="true" signature="8629:8763" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vThirdPersonController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/CharacterController/vThirdPersonController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="54" lean-forward="false" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+              <folding>
+                <marker date="1499476001000" expanded="true" signature="6:44" ph="..." />
+                <marker date="1499476001000" expanded="true" signature="84:1636" ph="{...}" />
+                <marker date="1499476001000" expanded="true" signature="149:1634" ph="{...}" />
+                <marker date="1499476001000" expanded="true" signature="194:279" ph="{...}" />
+                <marker date="1499476001000" expanded="true" signature="327:427" ph="{...}" />
+                <marker date="1499476001000" expanded="true" signature="465:590" ph="{...}" />
+                <marker date="1499476001000" expanded="true" signature="626:1202" ph="{...}" />
+                <marker date="1499476001000" expanded="true" signature="1288:1628" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vThirdPersonAnimator.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/CharacterController/vThirdPersonAnimator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1499476034000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1499476034000" expanded="true" signature="84:2309" ph="{...}" />
+                <marker date="1499476034000" expanded="true" signature="153:2307" ph="{...}" />
+                <marker date="1499476034000" expanded="true" signature="204:896" ph="{...}" />
+                <marker date="1499476034000" expanded="true" signature="587:759" ph="{...}" />
+                <marker date="1499476034000" expanded="true" signature="934:2301" ph="{...}" />
+                <marker date="1499476034000" expanded="true" signature="957:1105" ph="/* we implement this function to override the default root motion. ... */" />
+                <marker date="1499476034000" expanded="true" signature="1133:2291" ph="{...}" />
+                <marker date="1499476034000" expanded="true" signature="1516:1862" ph="{...}" />
+                <marker date="1499476034000" expanded="true" signature="1900:2277" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vThirdPersonMotor.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/CharacterController/vThirdPersonMotor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="106" column="8" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+              <folding>
+                <marker date="1512184537064" expanded="false" signature="6:128" ph="..." />
+                <marker date="1512184537064" expanded="true" signature="168:21273" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="230:21271" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="245:6314" ph="Variables" />
+                <marker date="1512184537064" expanded="true" signature="280:659" ph="Layers" />
+                <marker date="1512184537064" expanded="true" signature="669:4000" ph="Character Variables" />
+                <marker date="1512184537064" expanded="true" signature="732:825" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="4010:4799" ph="Actions" />
+                <marker date="1512184537064" expanded="true" signature="4410:4779" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="4706:4769" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="4809:5102" ph="Direction Variables" />
+                <marker date="1512184537064" expanded="true" signature="5112:5710" ph="Components" />
+                <marker date="1512184537064" expanded="true" signature="5720:6294" ph="Hide Variables" />
+                <marker date="1512184537064" expanded="true" signature="6342:7717" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="6365:6465" ph="/* this method is called on the Start of the ThirdPersonController ... */" />
+                <marker date="1512184537064" expanded="true" signature="7760:7876" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="7886:11518" ph="Locomotion" />
+                <marker date="1512184537064" expanded="true" signature="7954:8246" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="7980:8236" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="8280:8510" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="8541:8877" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="8921:10221" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="9329:10211" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="9795:10182" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="10273:11498" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="10360:10635" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="10652:11488" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="10927:11245" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="11266:11474" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="11528:13664" ph="Jump Methods" />
+                <marker date="1512184537064" expanded="true" signature="11595:11994" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="11719:11815" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="12028:13208" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="12381:13004" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="12427:12768" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="12789:12990" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="13021:13198" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="13249:13644" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="13275:13634" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="13674:19382" ph="Ground Check" />
+                <marker date="1512184537064" expanded="true" signature="13722:15469" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="14657:14747" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="14764:15459" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="14837:15242" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="15290:15445" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="15505:16940" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="15557:16930" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="16552:16848" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="16969:17096" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="17126:18160" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="17379:17483" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="17686:18035" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="18052:18150" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="18187:19362" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="18765:19326" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="18897:19312" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="19392:21264" ph="Camera Methods" />
+                <marker date="1512184537064" expanded="true" signature="19476:19952" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="19510:19942" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="19962:20178" ph="/// Update the targetDirection variable using referenceTransform or just input.Rotate by word  the referenceDirec ... " />
+                <marker date="1512184537064" expanded="true" signature="20265:21244" ph="{...}" />
+                <marker date="1512184537064" expanded="true" signature="20311:21115" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_instance</find>
+      <find>smooth</find>
+      <find>isJumping</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Prototype Project/Scripts/proto_playerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/CharacterController/vThirdPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/Camera/vThirdPersonCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/CharacterController/vThirdPersonMotor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/CharacterController/vThirdPersonAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Prototype Project/Scripts/proto_playerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/Camera/vThirdPersonCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/CharacterController/vThirdPersonMotor.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FirebendingPrototype (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="127fda70-7200-4218-8c01-5561c2ed5e6b" name="Default" comment="" />
+      <created>1512172123878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512172123878</updated>
+      <workItem from="1512172127521" duration="531000" />
+      <workItem from="1512183709847" duration="572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1103000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Prototype Project/Scripts/proto_playerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <marker date="1512181879442" expanded="false" signature="6:78" ph="..." />
+            <marker date="1512181879442" expanded="true" signature="131:543" ph="{...}" />
+            <marker date="1512181879442" expanded="true" signature="279:286" ph="{...}" />
+            <marker date="1512181879442" expanded="true" signature="341:541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/Camera/vThirdPersonCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="158" column="63" lean-forward="false" selection-start-line="158" selection-start-column="57" selection-end-line="158" selection-end-column="63" />
+          <folding>
+            <marker date="1512183823393" expanded="false" signature="6:94" ph="..." />
+            <marker date="1512183823393" expanded="true" signature="143:8794" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="156:863" ph="inspector properties" />
+            <marker date="1512183823393" expanded="true" signature="869:1846" ph="hide properties" />
+            <marker date="1512183823393" expanded="true" signature="1864:1892" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="1916:2594" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="2618:2717" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="2724:2842" ph="/// Set the target for the camera ... " />
+            <marker date="1512183823393" expanded="true" signature="2889:2957" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="3009:3210" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="3216:3378" ph="/// Convert a point in the screen in a Ray for the world ... " />
+            <marker date="1512183823393" expanded="true" signature="3425:3505" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="3511:3643" ph="/// Camera Rotation behaviour ... " />
+            <marker date="1512183823393" expanded="true" signature="3690:4218" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="3889:4059" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="4072:4212" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="4224:4285" ph="/// Camera behaviour ... " />
+            <marker date="1512183823393" expanded="true" signature="4311:7404" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="5456:5680" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="5855:6290" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="5957:6280" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="6303:6359" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="7160:7321" ph="/* lookTargetOffSet = Vector3.Lerp(lookTargetOffSet, Vector3.zero, 1 * Time.fixedDeltaTime); ... */" />
+            <marker date="1512183823393" expanded="true" signature="7411:7715" ph="/// Custom Raycast using NearClipPlanesPoints ... " />
+            <marker date="1512183823393" expanded="true" signature="7851:8792" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="7980:8074" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="8170:8304" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="8399:8533" ph="{...}" />
+            <marker date="1512183823393" expanded="true" signature="8629:8763" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prototype Project/Scripts/proto_playerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <marker date="1512181879442" expanded="false" signature="6:78" ph="..." />
+            <marker date="1512181879442" expanded="true" signature="131:543" ph="{...}" />
+            <marker date="1512181879442" expanded="true" signature="279:286" ph="{...}" />
+            <marker date="1512181879442" expanded="true" signature="341:541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/CharacterController/vThirdPersonAnimator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499476034000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1499476034000" expanded="true" signature="84:2309" ph="{...}" />
+            <marker date="1499476034000" expanded="true" signature="153:2307" ph="{...}" />
+            <marker date="1499476034000" expanded="true" signature="204:896" ph="{...}" />
+            <marker date="1499476034000" expanded="true" signature="587:759" ph="{...}" />
+            <marker date="1499476034000" expanded="true" signature="934:2301" ph="{...}" />
+            <marker date="1499476034000" expanded="true" signature="957:1105" ph="/* we implement this function to override the default root motion. ... */" />
+            <marker date="1499476034000" expanded="true" signature="1133:2291" ph="{...}" />
+            <marker date="1499476034000" expanded="true" signature="1516:1862" ph="{...}" />
+            <marker date="1499476034000" expanded="true" signature="1900:2277" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/CharacterController/vThirdPersonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="54" lean-forward="false" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+          <folding>
+            <marker date="1499476001000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1499476001000" expanded="true" signature="84:1636" ph="{...}" />
+            <marker date="1499476001000" expanded="true" signature="149:1634" ph="{...}" />
+            <marker date="1499476001000" expanded="true" signature="194:279" ph="{...}" />
+            <marker date="1499476001000" expanded="true" signature="327:427" ph="{...}" />
+            <marker date="1499476001000" expanded="true" signature="465:590" ph="{...}" />
+            <marker date="1499476001000" expanded="true" signature="626:1202" ph="{...}" />
+            <marker date="1499476001000" expanded="true" signature="1288:1628" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Invector-3rdPersonController/Basic Locomotion LITE/Scripts/CharacterController/vThirdPersonMotor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="106" column="8" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
+          <folding>
+            <marker date="1512184537064" expanded="false" signature="6:128" ph="..." />
+            <marker date="1512184537064" expanded="true" signature="168:21273" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="230:21271" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="245:6314" ph="Variables" />
+            <marker date="1512184537064" expanded="true" signature="280:659" ph="Layers" />
+            <marker date="1512184537064" expanded="true" signature="669:4000" ph="Character Variables" />
+            <marker date="1512184537064" expanded="true" signature="732:825" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="4010:4799" ph="Actions" />
+            <marker date="1512184537064" expanded="true" signature="4410:4779" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="4706:4769" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="4809:5102" ph="Direction Variables" />
+            <marker date="1512184537064" expanded="true" signature="5112:5710" ph="Components" />
+            <marker date="1512184537064" expanded="true" signature="5720:6294" ph="Hide Variables" />
+            <marker date="1512184537064" expanded="true" signature="6342:7717" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="6365:6465" ph="/* this method is called on the Start of the ThirdPersonController ... */" />
+            <marker date="1512184537064" expanded="true" signature="7760:7876" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="7886:11518" ph="Locomotion" />
+            <marker date="1512184537064" expanded="true" signature="7954:8246" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="7980:8236" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="8280:8510" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="8541:8877" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="8921:10221" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="9329:10211" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="9795:10182" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="10273:11498" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="10360:10635" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="10652:11488" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="10927:11245" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="11266:11474" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="11528:13664" ph="Jump Methods" />
+            <marker date="1512184537064" expanded="true" signature="11595:11994" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="11719:11815" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="12028:13208" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="12381:13004" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="12427:12768" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="12789:12990" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="13021:13198" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="13249:13644" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="13275:13634" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="13674:19382" ph="Ground Check" />
+            <marker date="1512184537064" expanded="true" signature="13722:15469" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="14657:14747" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="14764:15459" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="14837:15242" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="15290:15445" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="15505:16940" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="15557:16930" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="16552:16848" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="16969:17096" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="17126:18160" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="17379:17483" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="17686:18035" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="18052:18150" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="18187:19362" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="18765:19326" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="18897:19312" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="19392:21264" ph="Camera Methods" />
+            <marker date="1512184537064" expanded="true" signature="19476:19952" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="19510:19942" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="19962:20178" ph="/// Update the targetDirection variable using referenceTransform or just input.Rotate by word  the referenceDirec ... " />
+            <marker date="1512184537064" expanded="true" signature="20265:21244" ph="{...}" />
+            <marker date="1512184537064" expanded="true" signature="20311:21115" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
